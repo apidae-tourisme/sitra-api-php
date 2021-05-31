@@ -17,5 +17,8 @@
             "Sitra\\ApiClient\\": "src/Sitra/ApiClient",
             "Sitra\\Tests\\": "tests/"
         }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
     }
 }
